@@ -1,0 +1,13 @@
+@font-face { 
+   	font-family: "PT Sans Narrow";
+    src: local("PT Sans Narrow"), url('PT Sans Narrow.ttf');
+    format("truetype");
+}
+
+body { 
+  background: url(Sprites/Backgrounds/1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
